@@ -16,6 +16,6 @@ You can use my source code for your projects.
   <head>
   </head>
   <body>
-<img src"" alt="Please Refresh">
+<img src"Happy-Coding.gif" alt="Please Refresh">
   </body>
   </html>
