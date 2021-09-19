@@ -1,6 +1,6 @@
 # MY-FREECODECAMP-PORTFOLIO
 
-This portfolio is under construction and this is only a example i will update this portfolio and I except that you will apply your own creativity.
+This portfolio is under construction and this is only a example i will update this portfolio and I expect that you will apply your own creativity.
 
 Here this is the example how the portfolio website looks like.
 
