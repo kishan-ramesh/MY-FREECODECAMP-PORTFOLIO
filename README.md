@@ -16,6 +16,6 @@ You can use my source code for your projects.
   <head>
   </head>
   <body>
-<img src"https://blog.sagipl.com/wp-content/uploads/2017/03/Happy-Coding.gif" alt="Please Refresh">
+<img src"" alt="Please Refresh">
   </body>
   </html>
