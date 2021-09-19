@@ -11,3 +11,10 @@ I used Bootstrap v5.1.1 to build this website.
 You can use my source code for your projects.
 
 #Happy Coding
+
+<!DOCTYPE html>
+<html>
+  <body>
+    <img src="Happy-Coding.gif" alt="Please Refresh">
+  </body>
+  </html>
