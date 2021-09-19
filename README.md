@@ -4,7 +4,7 @@ This portfolio is under construction and this is only a example i will update th
 
 Here this is the example how the portfolio website looks like.
 
-wait
+https://kishan-ramesh.github.io/MY-FREECODECAMP-PORTFOLIO/
 
 I used Bootstrap v5.1.1 to build this website.
 
