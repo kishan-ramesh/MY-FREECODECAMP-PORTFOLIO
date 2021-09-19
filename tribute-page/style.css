@@ -1,0 +1,82 @@
+#title{
+    text-align: center;
+    font-family: 'Pattaya', sans-serif;
+  color:orange;
+  font-size: 4rem;
+}
+#image{
+    height:100vh;
+   display: block;
+    margin-top: 2.5rem;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+html{
+    font-size: 62.5%;
+}
+@media (max-width:777px){
+html{
+    font-size:50%;
+}
+#tribute-info > ol{
+   
+word-spacing:0rem;
+
+    
+
+    
+}
+}
+
+
+body{
+    background-color:blueviolet;
+}
+#img-caption{
+    color: #FFf;
+    font-size:3rem;
+    border-color:#FFf;
+    text-align: center;
+    font-family: 'Goblin One', cursive;
+    
+}
+#tribute-info > ol{
+    color:#FFF;
+    font-size: 3rem;
+
+word-spacing:1rem;
+    text-align: justify;
+    
+
+    
+}
+#li{
+    margin-top: 3rem;
+}
+#tribute-link{
+    
+    color:chartreuse;
+    font-family: 'Amatic SC', cursive;
+
+}
+#after-image{
+    color:#fff;
+    text-align: center;
+    font-family: 'Chela One', cursive;
+    font-size:5rem;
+}
+#link-color{
+    color:aqua;
+    text-align: center;
+    font-size: 3rem;
+    word-spacing: 2rem;
+}
+#link-color > a{
+    text-decoration:none;
+}
+
+
+
+
