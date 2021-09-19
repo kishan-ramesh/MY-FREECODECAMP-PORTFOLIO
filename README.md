@@ -11,5 +11,11 @@ I used Bootstrap v5.1.1 to build this website.
 You can use my source code for your projects.
 
 #Happy Coding
-
-<img src"https://blog.sagipl.com/wp-content/uploads/2017/03/Happy-Coding.gif">
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+<img src"https://blog.sagipl.com/wp-content/uploads/2017/03/Happy-Coding.gif" alt="Please Refresh">
+  </body>
+  </html>
