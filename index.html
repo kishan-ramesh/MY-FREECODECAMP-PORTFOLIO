@@ -10,16 +10,9 @@
     <title>Kishan's Portfolio Page</title>
 </head>
 <body>
-    <!--preloader-->
-    <div class="loader"> <img src="loading.gif" alt="Loading...">
-        <h2 class="fst-italic">Loading Please Wait</h2>
-    </div>
     <script>
-        window.addEventListener("load", function () {
-            const loader = document.querySelector(".loader");
-            loader.className += " hidden";
-        }); //class "loader hidden"
-        alert("Thank you for visiting my website.");
+        console.log("WARNING!");
+        console.log("Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.Do not enter or paste code that you don't understand.");
     </script>
     <div class="navbar navbar-expand-lg navbar-dark bg-dark fs-4">
         <div class="container-fluid">
@@ -48,7 +41,7 @@
         <p id="me">Hello!! My Name is Kishan. I study in class 9th A at ST PAULS UDAIPUR. I live in Udaipur and I love My Parents the most. I have a small Brother his name is Sourish and He studies in the same school at ST PAULS UDAIPUR He is in class 5th A.</p>
     </div>
     <br>
-    <!--you should keep this line theme by Kishan R or I will copystrike on you-->
+    <!--you should keep this line theme by Kishan R or I will copyright strike on you-->
         <div id="google_element" align="center" style="font-size:25px; color:black;">Please select your language.</div>
 <script src="https://translate.google.com/translate_a/element.js?cb=loadGoogleTranslate"></script>
 
@@ -63,38 +56,6 @@ function loadGoogleTranslate(){
 </div>    
 </body>
 <style>
-     .loader {
-        position: fixed;
-        z-index: 99999;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100vh;
-        background: white;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-
-    .loader>img {
-        width: 30%;
-    }
-
-    .loader.hidden {
-        animation: fadeOut 1s;
-        animation-fill-mode: forwards;
-    }
-
-    .loader>h2 {
-        position: static;
-    }
-
-    @keyframes fadeOut {
-        100% {
-            opacity: 0;
-            visibility: hidden;
-        }
-    }
     #me{
         text-align: justify;
         font-size:30px;
