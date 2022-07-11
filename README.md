@@ -8,7 +8,7 @@ https://kishan-ramesh.github.io/MY-FREECODECAMP-PORTFOLIO/
 
 And this is the custom domain of this website.
 
-www.kishans-portfolio.ga
+www.kishan.ga
 
 I used Bootstrap v5.1.1 to build this website.
 
