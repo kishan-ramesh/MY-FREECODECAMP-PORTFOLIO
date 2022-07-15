@@ -10,7 +10,7 @@ And this is the custom domain of this website.
 
 www.kishan.ga
 
-I used Bootstrap v5.1.1 to build this website.
+I used Bootstrap v5.1.0 to build this website.
 
 You can use my source code for your projects.
 
