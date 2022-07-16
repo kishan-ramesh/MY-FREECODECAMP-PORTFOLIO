@@ -6,7 +6,7 @@ Here this is the example how the portfolio website looks like.
 
 https://kishan-ramesh.github.io/MY-FREECODECAMP-PORTFOLIO/
 
-I used Bootstrap v5.1.0 to build this website.
+I used Bootstrap to build this website.
 
 You can use my source code for your projects.
 
