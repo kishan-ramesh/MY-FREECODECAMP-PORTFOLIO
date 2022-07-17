@@ -8,8 +8,6 @@ https://kishan-ramesh.github.io/MY-FREECODECAMP-PORTFOLIO/
 
 I used Bootstrap to build this website.
 
-You can use my source code for your projects.
-
 #Happy Coding
 
 <!DOCTYPE html>
